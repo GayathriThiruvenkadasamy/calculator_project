@@ -1,0 +1,29 @@
+.container-fluid{
+    height: 100vh;
+    padding-bottom: 20px;
+
+}
+
+.btn{
+    width: 70px;
+}
+#numbers{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-bottom: 20px;
+}
+#symbol{
+    display: flex;
+    
+    justify-content: left;
+    gap: 20px;
+    margin-bottom: 10px;
+}
+.card{
+    background: linear-gradient(black, grey);
+    
+    display: flex;
+    /* margin-top: 50px; */
+    margin: auto;
+}
